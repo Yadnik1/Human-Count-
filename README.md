@@ -17,15 +17,15 @@ Model Used is the tensorflow model SSD Mobilenet v2 coco 2018. You can download 
 The Intermediate Representation (IR) of the model can be downloaded by using this link.
 
 Hardware
-6th to 10th generation Intel® Core™ processor with Iris® Pro graphics or Intel® HD Graphics.
-OR use of Intel® Neural Compute Stick 2 (NCS2)
+1)6th to 10th generation Intel® Core™ processor with Iris® Pro graphics or Intel® HD Graphics.
+2)OR use of Intel® Neural Compute Stick 2 (NCS2)
 
 Software
-Intel® Distribution of OpenVINO™ toolkit 2019 R3 release
-Node v6.17.1
-Npm v3.10.10
-CMake
-MQTT Mosca server
+1)Intel® Distribution of OpenVINO™ toolkit 2019 R3 release
+2)Node v6.17.1
+3)Npm v3.10.10
+4)CMake
+5)MQTT Mosca server
 
 
 
